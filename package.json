@@ -1,0 +1,22 @@
+{
+  "name": "feedback-system",
+  "version": "1.0.0",
+  "description": "Get your feedback easy and fast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonutMorariu/feedback-system.git"
+  },
+  "author": "Ionut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonutMorariu/feedback-system/issues"
+  },
+  "homepage": "https://github.com/IonutMorariu/feedback-system#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
