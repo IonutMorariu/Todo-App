@@ -1,0 +1,10 @@
+nav {
+  background-color: #5fcf80;
+}
+.logo {
+  display: inline-block;
+  height: 50%;
+  vertical-align: middle;
+  padding-left: 2%;
+  cursor: pointer;
+}
