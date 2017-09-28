@@ -8,3 +8,20 @@ nav {
   padding-left: 2%;
   cursor: pointer;
 }
+
+.credits-button {
+  background-color: rgba(0, 0, 0, 0) !important;
+  border-radius: 10px;
+  border: 2px solid whitesmoke;
+  display: inline-block;
+  vertical-align: middle;
+  box-shadow: none !important;
+  text-transform: none !important;
+  font-size: 1.2rem;
+}
+
+.credits-button:hover {
+  box-shadow: none !important;
+  background-color: whitesmoke !important;
+  color: #5fcf80;
+}
